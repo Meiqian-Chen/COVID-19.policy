@@ -1,3 +1,8 @@
+<style>
+ table {
+  margin: auto;
+  }
+</style>
 # Supplementary archive for 'A global analysis of the COVID-19 policy activity levels and evolution patterns'
 
 ##### Meiqian Chen, Yucheng Dong, Xiaoping Shi                                                            
