@@ -39,55 +39,55 @@ The OxCGRT dataset is collected from public sources, such as news articles and g
 
 Country names and ISO (Alpha-3) country codes (For more information, please see https://www.iso.org/obp/ui#search).
 
-|             **Country  name** | **Country code** |   **Country  name** | **Country code** | **Country  name** | **Country code** |             **Country  name** | **Country code** |
-| ----------------------------: | ---------------- | ------------------: | :--------------- | ----------------: | :--------------- | ----------------------------: | :--------------- |
-|                         Aruba | ABW              |             Denmark | DNK              |              Laos | LAO              |                       Romania | ROU              |
-|                   Afghanistan | AFG              | Dominican  Republic | DOM              |           Lebanon | LBN              |                        Russia | RUS              |
-|                        Angola | AGO              |             Algeria | DZA              |           Liberia | LBR              |                        Rwanda | RWA              |
-|                       Albania | ALB              |             Ecuador | ECU              |             Libya | LBY              |                 Saudi  Arabia | SAU              |
-|                       Andorra | AND              |               Egypt | EGY              |     Liechtenstein | LIE              |                         Sudan | SDN              |
-|         United  Arab Emirates | ARE              |             Eritrea | ERI              |        Sri  Lanka | LKA              |                       Senegal | SEN              |
-|                     Argentina | ARG              |               Spain | ESP              |           Lesotho | LSO              |                     Singapore | SGP              |
-|                     Australia | AUS              |             Estonia | EST              |         Lithuania | LTU              |              Solomon  Islands | SLB              |
-|                       Austria | AUT              |            Ethiopia | ETH              |        Luxembourg | LUX              |                 Sierra  Leone | SLE              |
-|                    Azerbaijan | AZE              |             Finland | FIN              |            Latvia | LVA              |                  El  Salvador | SLV              |
-|                       Burundi | BDI              |                Fiji | FJI              |       China-Macao | MAC              |                   San  Marino | SMR              |
-|                       Belgium | BEL              |              France | FRA              |           Morocco | MAR              |                       Somalia | SOM              |
-|                         Benin | BEN              |     Faeroe  Islands | FRO              |            Monaco | MCO              |                        Serbia | SRB              |
-|                 Burkina  Faso | BFA              |               Gabon | GAB              |           Moldova | MDA              |                  South  Sudan | SSD              |
-|                    Bangladesh | BGD              |     United  Kingdom | GBR              |        Madagascar | MDG              |                      Suriname | SUR              |
-|                      Bulgaria | BGR              |             Georgia | GEO              |            Mexico | MEX              |              Slovak  Republic | SVK              |
-|                       Bahrain | BHR              |               Ghana | GHA              |              Mali | MLI              |                      Slovenia | SVN              |
-|                       Bahamas | BHS              |              Guinea | GIN              |             Malta | MLT              |                        Sweden | SWE              |
-|       Bosnia  and Herzegovina | BIH              |              Gambia | GMB              |           Myanmar | MMR              |                      Eswatini | SWZ              |
-|                       Belarus | BLR              |              Greece | GRC              |          Mongolia | MNG              |                    Seychelles | SYC              |
-|                        Belize | BLZ              |           Greenland | GRL              |        Mozambique | MOZ              |                         Syria | SYR              |
-|                       Bermuda | BMU              |           Guatemala | GTM              |        Mauritania | MRT              |                          Chad | TCD              |
-|                       Bolivia | BOL              |                Guam | GUM              |         Mauritius | MUS              |                          Togo | TGO              |
-|                        Brazil | BRA              |              Guyana | GUY              |            Malawi | MWI              |                      Thailand | THA              |
-|                      Barbados | BRB              |    China-Hong  Kong | HKG              |          Malaysia | MYS              |                    Tajikistan | TJK              |
-|                        Brunei | BRN              |            Honduras | HND              |           Namibia | NAM              |                  Turkmenistan | TKM              |
-|                        Bhutan | BTN              |             Croatia | HRV              |             Niger | NER              |                   Timor-Leste | TLS              |
-|                      Botswana | BWA              |               Haiti | HTI              |           Nigeria | NGA              |                         Tonga | TON              |
-|     Central  African Republic | CAF              |             Hungary | HUN              |         Nicaragua | NIC              |          Trinidad  and Tobago | TTO              |
-|                        Canada | CAN              |           Indonesia | IDN              |       Netherlands | NLD              |                       Tunisia | TUN              |
-|                   Switzerland | CHE              |               India | IND              |            Norway | NOR              |                        Turkey | TUR              |
-|                         Chile | CHL              |             Ireland | IRL              |             Nepal | NPL              |                  China-Taiwan | TWN              |
-|                         China | CHN              |                Iran | IRN              |      New  Zealand | NZL              |                      Tanzania | TZA              |
-|                Cote  d'Ivoire | CIV              |                Iraq | IRQ              |              Oman | OMN              |                        Uganda | UGA              |
-|                      Cameroon | CMR              |             Iceland | ISL              |          Pakistan | PAK              |                       Ukraine | UKR              |
-| Democratic  Republic of Congo | COD              |              Israel | ISR              |            Panama | PAN              |                       Uruguay | URY              |
-|                         Congo | COG              |               Italy | ITA              |              Peru | PER              |                United  States | USA              |
-|                      Colombia | COL              |             Jamaica | JAM              |       Philippines | PHL              |                    Uzbekistan | UZB              |
-|                       Comoros | COM              |              Jordan | JOR              | Papua  New Guinea | PNG              |                     Venezuela | VEN              |
-|                   Cape  Verde | CPV              |               Japan | JPN              |            Poland | POL              | United  States Virgin Islands | VIR              |
-|                   Costa  Rica | CRI              |          Kazakhstan | KAZ              |      Puerto  Rico | PRI              |                       Vietnam | VNM              |
-|                          Cuba | CUB              |               Kenya | KEN              |          Portugal | PRT              |                       Vanuatu | VUT              |
-|                        Cyprus | CYP              |    Kyrgyz  Republic | KGZ              |          Paraguay | PRY              |                         Yemen | YEM              |
-|               Czech  Republic | CZE              |            Cambodia | KHM              |         Palestine | PSE              |                 South  Africa | ZAF              |
-|                       Germany | DEU              |            Kiribati | KIR              |             Qatar | QAT              |                        Zambia | ZMB              |
-|                      Djibouti | DJI              |        South  Korea | KOR              |            Kosovo | RKS              |                      Zimbabwe | ZWE              |
-|                      Dominica | DMA              |              Kuwait | KWT              |                   |                  |                               |                  |
+| **Country name**             | **Country code** | **Country name**   | **Country code** | **Country name** | **Country code** | **Country name**             | **Country code** |
+| ---------------------------- | ---------------- | ------------------ | ---------------- | ---------------- | ---------------- | ---------------------------- | ---------------- |
+| Aruba                        | ABW              | Denmark            | DNK              | Laos             | LAO              | Romania                      | ROU              |
+| Afghanistan                  | AFG              | Dominican Republic | DOM              | Lebanon          | LBN              | Russia                       | RUS              |
+| Angola                       | AGO              | Algeria            | DZA              | Liberia          | LBR              | Rwanda                       | RWA              |
+| Albania                      | ALB              | Ecuador            | ECU              | Libya            | LBY              | Saudi Arabia                 | SAU              |
+| Andorra                      | AND              | Egypt              | EGY              | Liechtenstein    | LIE              | Sudan                        | SDN              |
+| United Arab Emirates         | ARE              | Eritrea            | ERI              | Sri Lanka        | LKA              | Senegal                      | SEN              |
+| Argentina                    | ARG              | Spain              | ESP              | Lesotho          | LSO              | Singapore                    | SGP              |
+| Australia                    | AUS              | Estonia            | EST              | Lithuania        | LTU              | Solomon Islands              | SLB              |
+| Austria                      | AUT              | Ethiopia           | ETH              | Luxembourg       | LUX              | Sierra Leone                 | SLE              |
+| Azerbaijan                   | AZE              | Finland            | FIN              | Latvia           | LVA              | El Salvador                  | SLV              |
+| Burundi                      | BDI              | Fiji               | FJI              | China-Macao      | MAC              | San Marino                   | SMR              |
+| Belgium                      | BEL              | France             | FRA              | Morocco          | MAR              | Somalia                      | SOM              |
+| Benin                        | BEN              | Faeroe Islands     | FRO              | Monaco           | MCO              | Serbia                       | SRB              |
+| Burkina Faso                 | BFA              | Gabon              | GAB              | Moldova          | MDA              | South Sudan                  | SSD              |
+| Bangladesh                   | BGD              | United Kingdom     | GBR              | Madagascar       | MDG              | Suriname                     | SUR              |
+| Bulgaria                     | BGR              | Georgia            | GEO              | Mexico           | MEX              | Slovak Republic              | SVK              |
+| Bahrain                      | BHR              | Ghana              | GHA              | Mali             | MLI              | Slovenia                     | SVN              |
+| Bahamas                      | BHS              | Guinea             | GIN              | Malta            | MLT              | Sweden                       | SWE              |
+| Bosnia and Herzegovina       | BIH              | Gambia             | GMB              | Myanmar          | MMR              | Eswatini                     | SWZ              |
+| Belarus                      | BLR              | Greece             | GRC              | Mongolia         | MNG              | Seychelles                   | SYC              |
+| Belize                       | BLZ              | Greenland          | GRL              | Mozambique       | MOZ              | Syria                        | SYR              |
+| Bermuda                      | BMU              | Guatemala          | GTM              | Mauritania       | MRT              | Chad                         | TCD              |
+| Bolivia                      | BOL              | Guam               | GUM              | Mauritius        | MUS              | Togo                         | TGO              |
+| Brazil                       | BRA              | Guyana             | GUY              | Malawi           | MWI              | Thailand                     | THA              |
+| Barbados                     | BRB              | China-Hong Kong    | HKG              | Malaysia         | MYS              | Tajikistan                   | TJK              |
+| Brunei                       | BRN              | Honduras           | HND              | Namibia          | NAM              | Turkmenistan                 | TKM              |
+| Bhutan                       | BTN              | Croatia            | HRV              | Niger            | NER              | Timor-Leste                  | TLS              |
+| Botswana                     | BWA              | Haiti              | HTI              | Nigeria          | NGA              | Tonga                        | TON              |
+| Central African Republic     | CAF              | Hungary            | HUN              | Nicaragua        | NIC              | Trinidad and Tobago          | TTO              |
+| Canada                       | CAN              | Indonesia          | IDN              | Netherlands      | NLD              | Tunisia                      | TUN              |
+| Switzerland                  | CHE              | India              | IND              | Norway           | NOR              | Turkey                       | TUR              |
+| Chile                        | CHL              | Ireland            | IRL              | Nepal            | NPL              | China-Taiwan                 | TWN              |
+| China                        | CHN              | Iran               | IRN              | New Zealand      | NZL              | Tanzania                     | TZA              |
+| Cote d'Ivoire                | CIV              | Iraq               | IRQ              | Oman             | OMN              | Uganda                       | UGA              |
+| Cameroon                     | CMR              | Iceland            | ISL              | Pakistan         | PAK              | Ukraine                      | UKR              |
+| Democratic Republic of Congo | COD              | Israel             | ISR              | Panama           | PAN              | Uruguay                      | URY              |
+| Congo                        | COG              | Italy              | ITA              | Peru             | PER              | United States                | USA              |
+| Colombia                     | COL              | Jamaica            | JAM              | Philippines      | PHL              | Uzbekistan                   | UZB              |
+| Comoros                      | COM              | Jordan             | JOR              | Papua New Guinea | PNG              | Venezuela                    | VEN              |
+| Cape Verde                   | CPV              | Japan              | JPN              | Poland           | POL              | United States Virgin Islands | VIR              |
+| Costa Rica                   | CRI              | Kazakhstan         | KAZ              | Puerto Rico      | PRI              | Vietnam                      | VNM              |
+| Cuba                         | CUB              | Kenya              | KEN              | Portugal         | PRT              | Vanuatu                      | VUT              |
+| Cyprus                       | CYP              | Kyrgyz Republic    | KGZ              | Paraguay         | PRY              | Yemen                        | YEM              |
+| Czech Republic               | CZE              | Cambodia           | KHM              | Palestine        | PSE              | South Africa                 | ZAF              |
+| Germany                      | DEU              | Kiribati           | KIR              | Qatar            | QAT              | Zambia                       | ZMB              |
+| Djibouti                     | DJI              | South Korea        | KOR              | Kosovo           | RKS              | Zimbabwe                     | ZWE              |
+| Dominica                     | DMA              | Kuwait             | KWT              |                  |                  |                              |                  |
 
 ### **Table S2:  The selected 80 countries** 
 
