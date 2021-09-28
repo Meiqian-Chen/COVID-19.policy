@@ -8,11 +8,6 @@
 
 This file offers all the replication data and code, and adds some supplementary figures and tables for 'A global analysis of the COVID-19 policy activity levels and evolution patterns'.
 
-<style>
-table {
-margin: auto;
-}
-</style>
 
 ### **Data S1: Oxford COVID-19 Government Response Tracker (OxCGRT)**
 
@@ -44,6 +39,11 @@ The OxCGRT dataset is collected from public sources, such as news articles and g
 ### **Table S1: All 186 countries included in OxCGRT dataset** 
 
 Country names and ISO (Alpha-3) country codes (For more information, please see https://www.iso.org/obp/ui#search).
+<style>
+table {
+margin: auto;
+}
+</style>
 
 |             **Country  name** | **Country code** |   **Country  name** | **Country code** | **Country  name** | **Country code** |             **Country  name** | **Country code** |
 | ----------------------------: | ---------------- | ------------------: | :--------------- | ----------------: | :--------------- | ----------------------------: | :--------------- |
