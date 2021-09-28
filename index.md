@@ -8,6 +8,12 @@
 
 This file offers all the replication data and code, and adds some supplementary figures and tables for 'A global analysis of the COVID-19 policy activity levels and evolution patterns'.
 
+<style>
+table {
+margin: auto;
+}
+</style>
+
 ### **Data S1: Oxford COVID-19 Government Response Tracker (OxCGRT)**
 
 The OxCGRT dataset is collected from public sources, such as news articles and government press releases and briefings, where information across countries and time is reported in terms of 20 indicators of government policy. Most indicators are recorded on an ordinal scale (strictness score) that represents the policy’s level of strictness. Please see the table below.
