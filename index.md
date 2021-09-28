@@ -171,4 +171,3 @@ Based on the Rand index method, the green points denote the similarity between t
 
 The similarity between the clustering result of the cumulative strictness scores of the countries on that day and the clustering result 1 day, 7 days and 15 days later, based on the Jaccard index **(A)** and Fowlkes-Mallows index **(B)**, respectively. Both the Jaccard index and Fowlkes-Mallows index range from 0 to 1, a similarity equal to 1 means that the two clustering results are the same.
 
-<img src="/Users/mqchen/Desktop/GCS平台/COVID-19.policy.github.io/images/fig_Robustness_checks_1.png" alt="fig_Robustness_checks_1" style="zoom:50%;" />
