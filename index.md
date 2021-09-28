@@ -127,13 +127,13 @@ Country names and ISO (Alpha-3) country codes (For more information, please see 
 
 ### **Figure S1: Plot of global policy patterns**
 
-![3221632819091_.pic_hd](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/3221632819091_.pic_hd.jpg)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/policy_patterns.pdf)
 
  For the selected 80 countries, the global policy patterns are evolving into seven main categories: i) Afghanistan, ii) China, iii) Iran, iv) Japan, v) Uruguay, vi) Costa Rica, Egypt, Hungary and Turkey, and vii) the remaining 71 countries. 
 
 ### **Figure S2: Testing the activity levels of government policy, new confirmed cases, and new deaths Support or Contact**
 
-![image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/image-20210928170853932.png)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/image-20210928170853932.png)
 
 **(A–C)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in government policies with a 10-day time window, 20-day time window, and 30-day time window, respectively. **(D–F)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in new confirmed cases with a 10-day time window, 20-day time window, and 30-day time window, respectively. **(G–I)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in new deaths with a 10-day time window, 20-day time window, and 30-day time window, respectively.
 
@@ -145,13 +145,13 @@ Plots of the number of countries with significant changes (q-value < 0.05, 0.01,
 
 ### **Figure S4: Plot of the changes of z-scores of total deaths vs. the z-scores of policy activity levels**
 
-![image-20210928170720724](/Users/mqchen/Library/Application Support/typora-user-images/image-20210928170720724.png)
+<img src="/Users/mqchen/Library/Application Support/typora-user-images/image-20210928170720724.png" alt="image-20210928170720724" style="zoom:50%;" />
 
 The policy activity level in each country here is calculated based on the policy-active countries with significant changes in the government policies but no significant changes in new deaths (see SI Appendix Robustness Checks). The fitting curves in black is estimated by the linear model. 
 
 ### **Figure S5: Plot of the changes of z-scores of HDI scores vs. the z-scores of policy activity levels for 171** countries (countries with missing HDI scores were removed)**
 
-![image-20210928171304068](/Users/mqchen/Library/Application Support/typora-user-images/image-20210928171304068.png)
+![image-20210928180227957](/Users/mqchen/Desktop/GCS平台/COVID-19.policy.github.io/image-20210928180227957.png)
 
 Points with the policy activity levels between -1 and 1 are marked in pink, and the rest are in blue. The fitting curve is estimated by locally estimated scatterplot smoothing. The black dotted line is the threshold for a score of 0 that indicates the global average of the HDI. The policy activity level in each country here is calculated based on the policy-active countries with significant changes in the government policies but no significant changes in new deaths (see SI Appendix Robustness Checks).
 
