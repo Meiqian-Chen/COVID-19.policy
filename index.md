@@ -127,8 +127,7 @@ Country names and ISO (Alpha-3) country codes (For more information, please see 
 
 ### **Figure S1: Plot of global policy patterns**
 
-<img src="https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/policy_patterns.jpg" width='500' />
-<pre class="r"><code>
+<img src="https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/policy_patterns.jpg" width='500' class="r" />
 
  For the selected 80 countries, the global policy patterns are evolving into seven main categories: i) Afghanistan, ii) China, iii) Iran, iv) Japan, v) Uruguay, vi) Costa Rica, Egypt, Hungary and Turkey, and vii) the remaining 71 countries. 
 
