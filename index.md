@@ -133,7 +133,7 @@ Country names and ISO (Alpha-3) country codes (For more information, please see 
 
 ### **Figure S2: Testing the activity levels of government policy, new confirmed cases, and new deaths Support or Contact**
 
-![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/fig_Robustness_checks_1.pdf)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/fig_Robustness_checks_1.png)
 
 **(A–C)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in government policies with a 10-day time window, 20-day time window, and 30-day time window, respectively. **(D–F)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in new confirmed cases with a 10-day time window, 20-day time window, and 30-day time window, respectively. **(G–I)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in new deaths with a 10-day time window, 20-day time window, and 30-day time window, respectively.
 
