@@ -127,42 +127,42 @@ Country names and ISO (Alpha-3) country codes (For more information, please see 
 
 ### **Figure S1: Plot of global policy patterns**
 
-![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/policy_patterns.pdf)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/policy_patterns.jpg)
 
  For the selected 80 countries, the global policy patterns are evolving into seven main categories: i) Afghanistan, ii) China, iii) Iran, iv) Japan, v) Uruguay, vi) Costa Rica, Egypt, Hungary and Turkey, and vii) the remaining 71 countries. 
 
 ### **Figure S2: Testing the activity levels of government policy, new confirmed cases, and new deaths Support or Contact**
 
-![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/fig_Robustness_checks_1.png)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/fig_Robustness_checks_1.png)
 
 **(A–C)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in government policies with a 10-day time window, 20-day time window, and 30-day time window, respectively. **(D–F)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in new confirmed cases with a 10-day time window, 20-day time window, and 30-day time window, respectively. **(G–I)** Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in new deaths with a 10-day time window, 20-day time window, and 30-day time window, respectively.
 
 ### **Figure S3: Testing the activity level of the stringency index scores of government policies**
 
-![image-20210928171045585](/Users/mqchen/Library/Application Support/typora-user-images/image-20210928171045585.png)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/fig_Robustness_checks_2.png)
 
 Plots of the number of countries with significant changes (q-value < 0.05, 0.01, 0.001) in stringency index scores of government policies with a 10-day time window **(A)**, a 20-day time window **(B)** and a 30-day time window **(C)**.
 
 ### **Figure S4: Plot of the changes of z-scores of total deaths vs. the z-scores of policy activity levels**
 
-<img src="/Users/mqchen/Library/Application Support/typora-user-images/image-20210928170720724.png" alt="image-20210928170720724" style="zoom:50%;" />
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/fig_Robustness_checks_3.png)
 
 The policy activity level in each country here is calculated based on the policy-active countries with significant changes in the government policies but no significant changes in new deaths (see SI Appendix Robustness Checks). The fitting curves in black is estimated by the linear model. 
 
 ### **Figure S5: Plot of the changes of z-scores of HDI scores vs. the z-scores of policy activity levels for 171** countries (countries with missing HDI scores were removed)**
 
-![image-20210928180227957](/Users/mqchen/Desktop/GCS平台/COVID-19.policy.github.io/image-20210928180227957.png)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/fig_Robustness_checks_4.png)
 
 Points with the policy activity levels between -1 and 1 are marked in pink, and the rest are in blue. The fitting curve is estimated by locally estimated scatterplot smoothing. The black dotted line is the threshold for a score of 0 that indicates the global average of the HDI. The policy activity level in each country here is calculated based on the policy-active countries with significant changes in the government policies but no significant changes in new deaths (see SI Appendix Robustness Checks).
 
 ### **Figure S6: Plot of the similarities of two clustering results 7 and 15 days apart**
 
-![image-20210928171423928](/Users/mqchen/Library/Application Support/typora-user-images/image-20210928171423928.png)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/fig_Robustness_checks_5.png)
 
 Based on the Rand index method, the green points denote the similarity between the clustering result of the cumulative strictness scores of the countries on that day and the clustering result 7 days later, and the blue points denote the similarity between the clustering result of the cumulative strictness scores of the countries on that day and the clustering result 15 days later. The fitting curve in blue and green both are estimated by the linear model.
 
 ### **Figure S7: Plots of the similarities of two clustering results 1 day, 7 days, and 15 days apart based on the different partition distance indexes**
 
-![image-20210928171553414](/Users/mqchen/Library/Application Support/typora-user-images/image-20210928171553414.png)
+![Image](https://github.com/Meiqian-Chen/COVID-19.policy.github.io/blob/gh-pages/images/fig_Robustness_checks_6.png)
 
 The similarity between the clustering result of the cumulative strictness scores of the countries on that day and the clustering result 1 day, 7 days and 15 days later, based on the Jaccard index **(A)** and Fowlkes-Mallows index **(B)**, respectively. Both the Jaccard index and Fowlkes-Mallows index range from 0 to 1, a similarity equal to 1 means that the two clustering results are the same.
